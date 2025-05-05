@@ -1,2 +1,5 @@
-# GraphisAdsTools
-An internal AI-based assistant for organizing files, presentations, and data. Created by Faizan khan
+# Graphisads AI Content Vault
+
+A Streamlit-based tool to instantly search internal content for creative & strategic needs. Built to grow and scale.
+
+Made by [Faizan khan]
