@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load your data
-df = pd.read_csv("data.csv")
-
+df = pd.read_csv("https://docs.google.com/spreadsheets/d/1R6XvXZTkj1zvMLtxSdZJSfl3_IGuvZgfvQPHzWHzTEs/export?format=csv")
 # Title
 st.title("Graphisads AI Content Vault")
 
